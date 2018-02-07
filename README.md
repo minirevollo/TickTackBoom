@@ -21,7 +21,7 @@ Der Buzzer zwischen Pin 11 und GND.
 Für die LED habe ich die eingbaute auf Pin 13 verwendet.
 
 
-<img src="IMG/ttb1.jpg" width = "49%" /> <img src="IMG/ttb.2jpg" width = "49%" />    
+<img src="IMG/ttb1.jpg" width = "49%" /> <img src="IMG/ttb2.jpg" width = "49%" />    
 
 ## Software ##
 Arduino-Code über die Arduino-IDE aufspielen.Für absolute Anfänger hier der Link zu [ARDUINO](https://www.arduino.cc/).
