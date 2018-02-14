@@ -9,11 +9,11 @@ Für den Arduino mit nur ein paar Bauteilen.
 
 
 ## Hardware ##
-- Arduino (z. B. UNO)
+- Arduino (z. B. pro micro)
 - OLED-Display 128 x 32 Pixel
 - Buzzer passiv
 - Button
-- LED
+- LED  (eignebaut)
 
 Anschluß des Displays über I2C an die Pins SDA und SCL (beim Arduino UNO SDA = A4 und SCL = A5 für andere Arduinos bitte den PinOut-Plan beachten).
 Der Button kommt auf Pin 7 und GND.
