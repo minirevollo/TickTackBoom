@@ -58,10 +58,12 @@ An dieser Stelle nochmal vielen Dank an Christian, den Programmierer von ESTLCAM
 
 <img src="IMG/ttb-w1.jpg" width = "49%" /> <img src="IMG/ttb-w2.jpg" width = "49%" />    
 
-<img src="IMG/ttb-w3.jpg" width = "49%" /> 
+<img src="IMG/ttb-w3.jpg" width = "49%" /> <img src="drilling/estlcam.jpg" width = "49%" />
 
 ## Platine: ##
 
 Die Platine wurde mit Fritzing gebaut. Export als Gerber-File. Gefräst wieder mit der Othermill.
 
-<img src="IMG/ttb-w3.jpg" width = "49%" />
+<img src="Fritzing/TickTackBoom_Leiterplatte.jpg" width = "80%" />
+
+
