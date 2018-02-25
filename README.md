@@ -1,7 +1,8 @@
-#  #TICK, TACK ...BOOM
+#TICK, TACK ...BOOM
 
-Ein Ratespiel, ähnlich Stadt, Land, Fluss. Die Spielanleitung gibt es unter IMG/Spielanleitung.
+Ein Ratespiel, ähnlich Stadt, Land, Fluss. Hier gibt es die [Spielanleitung](https://github.com/minirevollo/TickTackBoom/blob/master/IMG/TickTackBoom-Spielanleitung.pdf).	
 
+	
 
 <img src="IMG/ttb.gif" width = "50%" /> 
 
