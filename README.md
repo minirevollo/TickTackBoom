@@ -63,7 +63,7 @@ An dieser Stelle nochmal vielen Dank an Christian, den Programmierer von ESTLCAM
 
 ## Platine: ##
 
-Die Platine wurde mit Fritzing gebaut. Export als Gerber-File. Gefräst wieder mit der Othermill.
+Die Platine wurde mit Fritzing gebaut. Die Form für das Board wurde auch aus der DXF-Datei von Sketchup übernommen und in Inkscape überarbeitet. Um die generierte SVG-Datei für Fritzing nutzbar zu machen muss man einer speziellen Anleitung folgen, die man bei Fritzing auch findet. Export aus Fritzing dann als Gerber-File. Gefräst wieder mit der Othermill.
 
 <img src="Fritzing/TickTackBoom_Leiterplatte.jpg" width = "80%" />
 
